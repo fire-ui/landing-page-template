@@ -1,5 +1,5 @@
 # Product landing page template using Fire UI
-Create your product landing page using this template!
+Create your product landing page using this template! Demo [here](https://fire-ui.github.io/landing-page-template/)
 
 ## Steps to use this template:
 - Click `Use this template` button of this page.
